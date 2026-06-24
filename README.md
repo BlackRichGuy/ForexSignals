@@ -1,6 +1,8 @@
 # Free Deriv Trading Bots Repository: Open-Source Algorithmic Trading Systems
 
-Welcome to the ultimate hub for **free binary trading bots** and open-source automated trading software. This repository provides highly optimized scripts to automate your trading strategies across global financial markets including cryptocurrency (Bitcoin, Ethereum, Altcoins), the traditional stock market, and Forex—without paying for expensive, proprietary software subscriptions.
+Welcome to the ultimate hub for **free binary trading bots** and open-source automated trading software. This repository provides highly optimized scripts to automate your trading strategies across global financial markets including cryptocurrency (Bitcoin, Ethereum, Altcoins), the traditional stock market, and Forex without paying for expensive, proprietary software subscriptions.
+👉 **[Telegram Channel](https://t.me/DerivBinaryAlpha)**
+
 
 🚀 **Ready to launch your automated strategy?** Get your free system keys and live access tools instantly.
 👉 **[Free Deriv digit even / odd Bots](https://t.me/DerivBinaryAlpha)**
