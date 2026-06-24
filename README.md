@@ -65,6 +65,5 @@ The codebase handles native integrations with industry standard execution platfo
 Each bot lives inside its own self-contained directory with custom configurations. Follow this general setup sequence to spin up a bot locally:
 
 1. **Free Deriv Binary Bots, strategies, Classes and Analysistool on Telegram Channel:**
-```bash
-   https://t.me/DerivBinaryAlpha
+https://t.me/DerivBinaryAlpha
 https://t.me/DerivBinaryAlpha
