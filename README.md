@@ -42,7 +42,7 @@ Automate high-frequency, grid, or arbitrage strategies for digital assets. Fully
 ### 2. Forex Trading Bots
 Deploy automated scripts to navigate the foreign exchange markets, handling major pairs, minor pairs, and custom technical indicators.
 
-### 3. Deriv Volatility Trading Bots
+### 3. Deriv Trading Bots
 Connect to programmatic brokerages to scan, monitor, and execute orders across traditional equities and index funds based on predefined patterns.
 .
 👉 **[Free Deriv Trading Bots](https://t.me/DerivBinaryAlpha)**
@@ -58,7 +58,7 @@ The codebase handles native integrations with industry standard execution platfo
 | :--- | :--- |
 | **Cryptocurrency** | Binance, Coinbase Pro, Bybit, Kraken |
 | **Forex & CFDs** | MetaTrader 4 (MT4), MetaTrader 5 (MT5) |
-| **Traditional Equities** | Alpaca API, Interactive Brokers |
+| **Deriv Dbot Binary** | Deriv MT5, CFD Trading |
 
 ---
 
